@@ -1,6 +1,32 @@
 h1{
-    padding: 0;
+    padding-top: 15px;
     font-family: 'Pinyon Script', cursive;
-    font-size: 6.7rem;
+    font-size: 4.7rem;
     
+}
+
+.city{
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+.name{
+    text-align: center;
+}
+
+.about{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.tedx{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.contact{
+    background-color: black;
+    color: whitesmoke;
 }
